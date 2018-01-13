@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaikoSheet", "TaikoSheet\TaikoSheet.csproj", "{C5AE4E75-A227-41E9-BAB2-B078655F4AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5AE4E75-A227-41E9-BAB2-B078655F4AED}.Debug|x86.ActiveCfg = Debug|x86
+		{C5AE4E75-A227-41E9-BAB2-B078655F4AED}.Debug|x86.Build.0 = Debug|x86
+		{C5AE4E75-A227-41E9-BAB2-B078655F4AED}.Release|x86.ActiveCfg = Release|x86
+		{C5AE4E75-A227-41E9-BAB2-B078655F4AED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
