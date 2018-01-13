@@ -7,3 +7,6 @@ me smort
 
 guesswork.txt contains a whole lot of random chunks and bars from different songs, as a way to help me work out how these files are thrown together.
 Right now this uses some very crappy methods to get the data; it's using regex and indexed lists to go through each of the 32 bit chunks of data as strings, then converts them to floats and ints and such. it's bad.
+
+
+As it stands, this *should* be able to read *most* of the data from the sheets in Wii4/5, and DX on PSP. The DLC files in DX definitely seem to use the same file structure. I haven't checked the ISO for the actual game, though. Presumably it's the same.

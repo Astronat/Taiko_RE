@@ -21,7 +21,7 @@ namespace TaikoSheet {
             //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\marumo_m.bin");
             //SongData sr = new SongData(@"J:\Taiko\wii5 sheets\brs_h.bin"); //wii3 black rock shooter
             //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\ekiben_m.bin", true);
-            //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\trance_h.bin", false);
+            //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\trance_h.bin", false); 
             //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\hatara_m.bin", true);
             //SongData sr = new SongData(@"J:\Taiko\wii4 sheets\sheet\newsht\solo\tktime_n.bin", true);
             //SongData sr = new SongData(@"J:\Taiko\wii5 sheets\sheet\newsht\solo\castle_m.bin", true);
